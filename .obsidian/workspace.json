@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "167578a55e34d39b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfe00bb5e7728f75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73e19f9e48f76710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RetosTHM/CTF collection Vol.1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CTF collection Vol.1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10799504f7a5e258",
+    "type": "split",
+    "children": [
+      {
+        "id": "572a5c453bc11abe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5432219f6754e0b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "c07f2c4fbe3bda58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "b0c87e330ccaca8b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7ba33e7d59a5a4d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9aa98e5767bb86f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2447427b990e91fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bienvenido.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Bienvenido"
+            }
+          },
+          {
+            "id": "57b6052e433f93ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bienvenido.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Bienvenido"
+            }
+          },
+          {
+            "id": "83df9b80feb278c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "56f2c8c8623ec179",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "9f44a9d9ba6829c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bienvenido.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Bienvenido"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "73e19f9e48f76710",
+  "lastOpenFiles": [
+    "RetosTHM/Anonymous.md",
+    "RetosTHM/Anthem.md",
+    "RetosTHM/Vulnerability Scanning Tools.md",
+    "RetosTHM/Post-Exploitation Basics.md",
+    "RetosTHM/Linux Privilege Escalation.md",
+    "RetosTHM/HA Joker CTF.md",
+    "RetosTHM/GoldenEye.md",
+    "RetosTHM/CTF collection Vol.2.md",
+    "RetosTHM/CTF collection Vol.1.md",
+    "RetosTHM/Blueprint.md",
+    "cree un enlace.md",
+    "RetosTHM/Bienvenido.md",
+    "Bienvenido.md",
+    "RetosTHM",
+    "Anonymous.md",
+    "Vulnerability Scanning Tools.md",
+    "Post-Exploitation Basics.md",
+    "Linux Privilege Escalation.md",
+    "HA Joker CTF.md",
+    "GoldenEye.md",
+    "CTF collection Vol.2.md",
+    "CTF collection Vol.1.md",
+    "Blueprint.md",
+    "Anthem.md"
+  ]
+}
